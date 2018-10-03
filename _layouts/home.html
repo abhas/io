@@ -1,0 +1,35 @@
+---
+layout: default
+---
+  <h1>{{site.title}}</h1> 
+  <p style="margin-top: -0.2em"> Not Somebody Else's Problem; Mine.</p>
+
+<h3>About</h3>
+{% include about_preview.html %}
+
+<h3> More... </h3>
+{% include contact.html %}
+
+<div class="div-with-margin">
+  <a class="no-underline" href="{{ "/feed.xml" | relative_url }}">
+      {% include svg/rss_icon.svg %}
+  </a>
+  <h3 class="inline no-margin">Writing</h3>
+</div>
+
+<table>
+  <tbody>
+    {% for post in site.posts %}
+      <tr>
+        <td><time class="small" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y/%m/%d" }}</time></td>
+        <td><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <small style="color: #7f7f7f"> {{ post.subtitle }} </small>
+          <br> <br>
+        </td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

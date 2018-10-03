@@ -1,0 +1,24 @@
+---
+layout: default
+back:
+    text: "TestHome"
+    url: "/"
+---
+<header>
+  <a href="/">
+    <h1 class="muted">{{site.title}}</h1> 
+    <p class="muted">No Somebody Else's Problem; Mine. <br>
+    About | Links & Bookmarks | Further Reading | Websites </p>
+  </a>
+
+  <div class="navigation-container">
+      <span id="home-link">
+        <a href="{{page.back.url}}">{{page.back.text}}</a>
+      </span>
+  </div>
+  <h1>{{ page.title | escape }}</h1>
+</header>
+<div class="content">
+  {{ content }}
+</div>
+

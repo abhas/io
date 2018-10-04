@@ -13,7 +13,7 @@ toc: true
 
 ## Background
 
-Dr Richard Stallman (RMS) , founder of the GNU Project and the Free 
+Dr Richard Stallman (RMS), founder of the GNU Project and the Free 
 Software Foundation, would be visiting India in January 2019. How do we 
 make his visit to India more meaningful? How do we take this opportunity to
 generate activity around concepts of Software Freedom? What can you do as an

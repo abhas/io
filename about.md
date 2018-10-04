@@ -86,3 +86,8 @@ Here are some of my known biases:
     If I don't, then I'd be an imposter and you would be doing a great
     thing to point that out.
 
+### Jekyll
+
+This blog is powered by Jekyll. The theme is borrowed from the excellent 
+work by [Michael Cypher](https://github.com/mikeecb/cypher-jekyll-theme).
+

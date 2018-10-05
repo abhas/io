@@ -27,24 +27,24 @@ size. Hopefully, I will be able to do justice to what I need to say.
 
 ### About DeepRoot Linux
 
-At **DeepRoot Linux**, we enable organisations of all sizes to use Free Software
-for their infrastructure deployments. We provide software, services and
-support so that they can use GNU/Linux and Free Software effectively.
-Over the past 18 years, we have worked with more than 500 organisations
-to help them in their endeavour to adopt and run Free Software. We build
-mail servers and mail server clusters, private clouds, containerisation
-and automation solution, computer labs and so much more. We provide
-support for a variety of free software tools that user's might want to
+At [DeepRoot Linux](https://deeproot.in), we enable organisations of all sizes
+to use Free Software for their infrastructure deployments. We provide software,
+services and support so that they can use GNU/Linux and Free Software
+effectively.  Over the past 18 years, we have worked with more than 500
+organisations to help them in their endeavour to adopt and run Free Software.
+We build mail servers and mail server clusters, private clouds,
+containerisation and automation solutions, computer labs and so much more.  We
+provide support for a variety of free software tools that user's might want to
 use and help them implement, scale and secure them.
 
 ### About Mostly Harmless
 
-**Mostly Harmless** is a one-person company I started about two years
-back to experiment with building and selling hardware that could run
-free software in more areas. My goal was also to find new ways of
-building products that could respect the user's freedom and privacy.
-There are many problems that are often thought to be *somebody else's*
-and I decided that I would try to solve as many of them as I could.
+[Mostly Harmless](https://mostlyharmless.io) is a one-person company I started
+about two years back to experiment with building and selling hardware that
+could run free software in more areas. My goal was also to find new ways of
+building products that could respect the user's freedom and privacy.  There are
+many problems that are often thought to be *somebody else's* and I decided that
+I would try to solve as many of them as I could.
 
 ### Solitude.io?
 
@@ -62,6 +62,31 @@ its worth playing and it is the right thing to do.
 
 The preferred way to contact me is via email:
 [abhas@deeproot.in](mailto:abhas@deeproot.in) 
+
+### Professional Bio
+
+Here is a "professional bio" written in the third person:
+
+> Abhas is the founder of DeepRoot Linux, an eighteen-year-old Free Software
+> Business that provides support, services and solutions for Free Software
+> deployments. DeepRoot Linux builds mail servers and clusters, provides hosting
+> & support for a variety of Free Software tools and helps organisations of all
+> sizes choose self-hosting for their infrastructure in general. They have helped
+> more than 500 organisations build their infrastructure using free software.
+> DeepRoot Linux has special initiatives for educational institutions to help
+> them integrate FOSS into more aspects of their operations.
+> 
+> As the founder of a one-person company called Mostly Harmless, Abhas
+> experiments with and builds Free/Open Source Hardware (like hackable mechanical
+> keyboards), self-hosted IoT solutions and strategies for using and distributing
+> software and hardware with freedom.
+> 
+> Abhas is a member of the board of directors of the Free Software Foundation,
+> India and has been a participant in the community in India for many years. He
+> advises colleges, govt / defence organisations and start-ups on using, building
+> and adopting free software as a “way of life”.
+> 
+> He sometimes shares his thoughts at abhas.io. 
 
 ### Disclaimers
 

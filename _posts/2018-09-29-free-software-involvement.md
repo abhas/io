@@ -3,7 +3,6 @@ layout: post
 title: "Personalising your involvement with Free Software"
 date: 2018-09-29T00:00:00+05:30
 permalink: /free-software-involvement/
-image: /wp-content/uploads/2018/04/android-header.png
 subtitle: What can you do over the next 3 months to deepen, extend and
   personalise the adoption of Free Software? Some things can be small
   and quick while some of them would involve working with others.

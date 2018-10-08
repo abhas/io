@@ -14,7 +14,7 @@ categories:
   - learning
 ---
 
-![Header Image](/wp-content/uploads/2018/05/spider.jpg) 
+![header-image-spider]( {{ "/wp-content/uploads/2018/05/spider.jpg" | absolute_url }}) 
 
 ## Background
 

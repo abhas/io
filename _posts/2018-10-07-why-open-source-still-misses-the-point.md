@@ -9,7 +9,7 @@ subtitle: The term "Open Source" has been misused and misunderstood so
   thoroughly by now that it really doesn't mean anything anymore. Specifically,
   it does not convey the essence of software freedom nor is it suitable for any
   of the other purposes it is used for. "Open Source" continues to miss the
-  miss the point even after 20 years!
+  point even after 20 years!
 
 ---
 
@@ -34,7 +34,7 @@ illustrate how that discussion is even more relevant now, than ever.
 Here is what I found when I searched the website of
 [TED](https://ted.com) for the term "open source":
 
-![ted-open-source](/images/2018/10/ted-open-source.png)
+![ted-open-source]({{ "/images/2018/10/ted-open-source.png" | absolute_url }})
 
 Multiple types of topics and content are tagged as "open-source" even
 when it has no relevance to that concept. What I'm trying to illustrate
@@ -179,7 +179,7 @@ actually be clear?
 
 ## "You should say what you mean!"
 
-  ![mad-tea-party](/images/2018/10/mad-tea-party-highlighted.jpg)
+  ![mad-tea-party]({{ "/images/2018/10/mad-tea-party-highlighted.jpg" | absolute_url }})
   <p class="caption"> March Hare: <em>you should say what you mean...</em> <br> 
   From <em> Through the Looking Glass </em> by Lewis Carroll
   </p>

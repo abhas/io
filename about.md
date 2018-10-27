@@ -77,7 +77,7 @@ Here is a "professional bio" written in the third person:
 > them integrate FOSS into more aspects of their operations.
 > 
 > As the founder of a one-person company called Mostly Harmless, Abhas
-> experiments with and builds Free/Open Source Hardware (like hackable mechanical
+> experiments with and builds Free/Libre Hardware (like hackable mechanical
 > keyboards), self-hosted IoT solutions and strategies for using and distributing
 > software and hardware with freedom.
 > 

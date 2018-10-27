@@ -10,7 +10,7 @@ Here is an exhaustive list of websites I edit or maintain or participate in:
 
 The company website for DeepRoot GNU/Linux.
 
-#### Mostly Harmless - <https://moslyharmless.io>
+#### Mostly Harmless - <https://mostlyharmless.io>
 
 Website of my "experimental" one-person company, Mostly Harmless.
 

@@ -727,6 +727,12 @@ img.original {
 blockquote {
   font-style: italic;
   font-family: serif;
+  background-color: #efefef;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
 }
 
 em {
@@ -734,5 +740,17 @@ em {
 
 strong {
   color: darkblue;
+}
+
+h2, h3, h4 {
+  color: darkblue;
+}
+
+hr {
+  margin-left: 50px;
+  margin-right: 50px;
+ 	border-top: 4px solid #dfdfdf;
+  margin-top: 2em;
+  padding-bottom: 2em;
 }
 

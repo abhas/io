@@ -4,6 +4,9 @@ date: 2018-11-02
 Author: Abhas Abhinav
 layout: post
 permalink: /advice-to-students-for-hackathons/
+redirect_from:
+  - /hackathon/
+  - /hackathons/
 toc: true
 subtitle: Are you student intending to participate in a "hackathon"? If what
   you want you are trying to optimise for is learning and challenging yourself,

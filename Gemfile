@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "cypher-jekyll-theme"
 gem 'jekyll-toc'
 gem 'jekyll-redirect-from'
+gem 'jekyll-sitemap'
+

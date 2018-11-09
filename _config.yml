@@ -20,8 +20,23 @@ description: >- # this means to ignore newlines until "baseurl:"
   perspectives of Abhas Abhinav.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abhas.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _abhas_
+twitter_username: abhasabhinav
 github_username:  abhas
+
+## SEO Tags
+author: AbhasAbhinav
+twitter:
+  username: abhasabhinav
+  card: summary
+logo: /images/me.png
+social:
+  name: Abhas Abhinav
+  links:
+    - https://twitter.com/abhasabhinav
+    - https://www.linkedin.com/in/abhas-abhinav
+    - https://plus.google.com/+AbhasAbhinav
+    - https://github.com/abhas
+    - https://keybase.io/abhas
 
 # Build settings
 markdown: kramdown
@@ -31,3 +46,5 @@ plugins:
   - jekyll-toc
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-seo-tag
+

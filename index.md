@@ -4,4 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Not Somebody Else's Problem; Mine. | Writing, thoughts, experiences and perspectives of Abhas Abhinav.
+image: /images/me.png
 ---

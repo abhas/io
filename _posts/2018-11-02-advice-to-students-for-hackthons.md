@@ -13,8 +13,16 @@ subtitle: Are you student intending to participate in a "hackathon"? If what
   here is some advice on how to do that. I also offer suggestions on alternate
   methods of building your project and why it is important to think about some
   of these things.
+description: Are you student intending to participate in a "hackathon"? If what
+  you want you are trying to optimise for is learning and challenging yourself,
+  here is some advice on how to do that. I also offer suggestions on alternate
+  methods of building your project and why it is important to think about some
+  of these things.
+image: /images/2018/10/sit-hackathon.png
 
 ---
+
+
 
 ## Background
 
@@ -40,6 +48,9 @@ In this essay, I try to examine why students make the sort of technology choices
 they make and how, by optimising for convenience and ease-of-use, students miss
 out on building better capability and appreciating issues related to online
 privacy and software freedom.
+
+![A student hackthon in progress at SIT Tumkur](/images/2018/10/sit-hackathon.png)
+*A student hackathon in progress at SIT Tumkur*
 
 ## What is a "hackathon"?
 

@@ -749,8 +749,12 @@ strong {
   color: darkblue;
 }
 
-h2, h3, h4 {
+h2, h3 {
   color: darkblue;
+}
+
+h4 {
+  color: #4f4f4f;
 }
 
 hr {

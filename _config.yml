@@ -48,3 +48,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+toc:
+  min_level: 1 # default: 1
+  max_level: 3 # default: 6
+

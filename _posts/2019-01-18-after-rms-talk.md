@@ -1,5 +1,5 @@
 ---
-title: Why should you do after attending a talk by RMS?
+title: What should you do after attending a talk by RMS?
 date: 2019-01-18
 Author: Abhas Abhinav
 layout: post
@@ -72,7 +72,7 @@ Free Software?
 
 ### Services
 
-All the software that affects our lives does not on computers within our
+All the software that affects our lives does not run on computers within our
 control. Much of it runs on other people's computers (often termed as
 "cloud") while some of it is only accessible as a service.
 

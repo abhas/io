@@ -7,12 +7,12 @@ permalink: /after-rms-talk/
 toc: true
 image: /images/2019/01/after-rms-talk.png
 subtitle: Here are some things that you can do after you have attended a
-  talk by Dr Richard Stallman (RMS). In my personal opinion, it is
+  talk by Dr Richard Stallman (RMS). In my personal opinion, it 
   would be a missed opportunity and a loss if we attend an inspiring
   talk by Dr Richard Stallman today and are not able to reflect on his
   message and act on it.
 description: Here are some things that you can do after you have attended a
-  talk by Dr Richard Stallman (RMS). In my personal opinion, it is
+  talk by Dr Richard Stallman (RMS). In my personal opinion, it 
   would be a missed opportunity and a loss if we attend an inspiring
   talk by Dr Richard Stallman today and are not able to reflect on his
   message and act on it.

@@ -38,6 +38,16 @@ well](https://cloud.abhas.io/s/JQr4EEaEMRoAb7t#pdfviewer).
 Or you can also view these as a [JPEG slideshow of
 images](https://cloud.abhas.io/apps/gallery/s/r5jKPbLFnJ3ZxCx#).
 
+# Tutorial Slides
+
+I also presented a tutorial and live demo of a how to build an IoT
+solution without using proprietary software. You can either [download the
+slides](ttps://cloud.abhas.io/s/fNqdMGsb5ZXFEcQ/download) or [view them in your
+browser](https://cloud.abhas.io/s/fNqdMGsb5ZXFEcQ) itself.
+
+Or, you can view them as a [JPEG slideshow of
+images](https://cloud.abhas.io/apps/gallery/s/j92Y9JX7nQtEi4X#).
+
 # More to come!
 
 I will add some more commentry on this topic in a few days time. Please
